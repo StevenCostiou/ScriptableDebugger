@@ -5,6 +5,8 @@ The API is on the `SindarinDebugger` class.
 - Original author: **Thomas Dupriez** (dupriezt on github)
 - Research paper: [Sindarin: A Versatile Scripting API for the Pharo Debugger](https://hal.archives-ouvertes.fr/hal-02280915)
 
+> Note: The master branch is now obsolete and should not be used anymore 
+
 ## Usage
 
 ```Smalltalk
